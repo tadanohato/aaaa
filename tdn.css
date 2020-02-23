@@ -1,9 +1,12 @@
 @charset "utf-8";
 body {
-	background-color:#010a43; /*èƒŒæ™¯è‰²*/
-	font-size:30px; /*ãƒ•ã‚©ãƒ³ãƒˆã‚µã‚¤ã‚º*/
-	font-family: "ãƒ¡ã‚¤ãƒªã‚ª",sans-serif; /*ãƒ•ã‚©ãƒ³ãƒˆï¼ˆå¤‰ãˆæ–¹ã‚ã‹ã‚‰ã‚“ï¼‰*/
-	line-height:10px; /*è¡Œã®é«˜ã•*/
-	color:#ffe196; /*æ–‡å­—è‰²*/
+	background-color:#21243d; /*”wŒiF*/
+	font-size:40px; /*ƒtƒHƒ“ƒgƒTƒCƒY*/
+	font-family: "ƒƒCƒŠƒI",sans-serif; /*ƒtƒHƒ“ƒgi•Ï‚¦•û‚í‚©‚ç‚ñj*/
+	line-height:4px; /*s‚Ì‚‚³*/
+	color:#ffd082; /*•¶šF*/
 
+}
+li {
+	list-style-type:decimal;	/*ƒ}[ƒJ*/
 }
